@@ -8,6 +8,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
 
+- **Ferramentas:** Figma | Git | Visual Studio Code
+- **Frameworks:** React (em aprendizado)
+
 ### Principais Projetos
 - [Cine Pipoca](https://github.com/Alan1755/cine-pipoca): Plataforma de streaming desenvolvida para meu projeto técnico.
 
