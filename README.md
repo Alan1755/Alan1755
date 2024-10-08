@@ -2,6 +2,7 @@
 -🎓 Técnico em Desenvolvimento de Sistemas 
 
 -💻 Apaixonado por programação e design de interfaces  
+
 -📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/alan-cirqueira-03a4a72ab/)  
 
 ### Tecnologias e Ferramentas
