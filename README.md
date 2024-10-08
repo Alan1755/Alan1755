@@ -1,7 +1,7 @@
 # Olá! Eu sou o Alan 👋
-🎓 Técnico em Desenvolvimento de Sistemas
-💻 Apaixonado por programação e design de interfaces  
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/alan-cirqueira-03a4a72ab/)  
+-🎓 Técnico em Desenvolvimento de Sistemas 
+-💻 Apaixonado por programação e design de interfaces  
+-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/alan-cirqueira-03a4a72ab/)  
 
 ### Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
