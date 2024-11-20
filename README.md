@@ -14,6 +14,6 @@
 - **Frameworks:** React (em aprendizado)
 
 ### Principais Projetos
-- [Cine Pipoca](https://github.com/Alan1755/cine-pipoca): Plataforma de streaming desenvolvida para meu projeto técnico.
+- [Cine Pipoca](https://github.com/Alan1755/cinePipoca): Plataforma de streaming desenvolvida para meu projeto técnico.
 
 
