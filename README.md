@@ -5,7 +5,7 @@
 🚀 Explorando o universo do front-end e integrando soluções no back-end, sempre com foco em criar experiências digitais incríveis.
 🎯 Atualmente, estou aprendendo React e aprimorando minhas habilidades com PHP e Python.
 
-📫 Conecte-se comigo: LinkedIn | Portfólio GitHub
+📫 Conecte-se comigo: alan_silva_cr41@gmail.com || [Linkedin](https://www.linkedin.com/in/alan-cirqueira-03a4a72ab/)
 
 🛠️ Tecnologias e Ferramentas
 Linguagens:
