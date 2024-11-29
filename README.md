@@ -1,4 +1,4 @@
-Olá! Eu sou o Alan 👋
+#Olá! Eu sou o Alan 👋
 
 🎓 Técnico em Desenvolvimento de Sistemas | 💻 Apaixonado por programação e design de interfaces
 
