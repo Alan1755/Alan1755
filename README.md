@@ -1,6 +1,3 @@
-
-Aqui está uma versão mais personalizada e atraente para o seu README:
-
 Olá! Eu sou o Alan 👋
 🎓 Técnico em Desenvolvimento de Sistemas | 💻 Apaixonado por programação e design de interfaces
 
