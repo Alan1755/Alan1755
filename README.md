@@ -20,15 +20,18 @@ Linguagens:
 Ferramentas:
 
 🎨 Design: Figma
-🛠️ Versionamento: Git
-🖥️ Editor: Visual Studio Code
-Frameworks e Bibliotecas:
 
+🛠️ Versionamento: Git
+
+🖥️ Editor: Visual Studio Code
+
+Frameworks e Bibliotecas:
 React (em aprendizado)
+
 🌟 Principais Projetos
+
 🎥 Cine Pipoca
 Uma plataforma de streaming interativa, desenvolvida como parte do meu projeto técnico. Atuei como Scrum Master, criando o front-end, integrando o back-end, e colaborando no design para oferecer uma experiência imersiva.
 
 🌱 Sempre buscando melhorar, aprender e compartilhar conhecimento com a comunidade.
-
 
